@@ -1,0 +1,257 @@
+.main {
+	background-color:red;
+	height:100%;
+	width:100%;
+	position:absolute;
+	display:none;
+}
+.place1 {
+	background-image:url(maxresdefault.jpg);
+	background-size:100% 100%;
+	height:100%;
+	width:100%;
+	position:absolute;
+}
+.place2 {
+	background-color:yellow;
+	height:100%;
+	width:100%;
+	position:absolute;
+	display:none;
+}
+.img-place1 {
+	background-color:green;
+	height:150px;
+	width:150px;
+	left:60%;
+	top:20%;
+	position:absolute;
+}
+.img-place2 {
+	background-color:green;
+	height:150px;
+	width:150px;
+	left:20%;
+	top:70%;
+	position:absolute;
+}
+.img-place3 {
+	background-color:green;
+	height:150px;
+	width:150px;
+	left:80%;
+	top:60%;
+	position:absolute;
+}
+.img-place4 {
+	background-color:green;
+	height:150px;
+	width:150px;
+	left:40%;
+	top:70%;
+	position:absolute;
+}
+.img-place5{
+	background-color:green;
+	height:150px;
+	width:150px;
+	left:20%;
+	top:30%;
+	position:absolute;
+}
+.exit {
+	height:100px;
+	width:150px;
+	background-color:blue;
+	position:absolute;
+	left:92%;
+	top:89%;
+}
+.game1 {
+	background-image:url(koridor.jpg);
+	background-size:100% 100%;
+	height:100%;
+	width:100%;
+	position:absolute;
+	display:none;
+}
+.game2 {
+	background-image:url(koridor.jpg);
+	background-size:100% 100%;
+	height:100%;
+	width:100%;
+	position:absolute;
+	display:none;
+}
+.game3 {
+	background-image:url(classroom.png);
+	background-size:100% 100%;
+	height:100%;
+	width:100%;
+	position:absolute;
+	display:none;
+}
+.exit1 {
+	height:100px;
+	width:150px;
+	background-color:blue;
+	position:absolute;
+	left:92%;
+	top:89%;
+}
+.exit2 {
+	height:100px;
+	width:150px;
+	background-color:blue;
+	position:absolute;
+	left:92%;
+	top:89%;
+}
+.exit3 {
+	height:100px;
+	width:150px;
+	background-color:blue;
+	position:absolute;
+	left:92%;
+	top:89%;
+}
+.item {
+	height:100px;
+	width:100px;
+	position:absolute;
+	top:-120px;
+	transition:3s;
+	background-size:100% 100%;
+}
+.start {
+	height:100px;
+	width:400px;
+	left:40%;
+	top:50%;
+	position:absolute;
+	background-image:url(f7b7dccb98789da.png);
+	background-size:100% 100%;
+}
+.spisok {
+	display:none;
+	margin-left:40px;
+	margin-top:40px;
+}
+.pen1 {
+	display:none;
+	margin-left:40px;
+}
+.pencil1 {
+	display:none;
+	margin-left:40px;
+}
+.book1 {
+	display:none;
+	margin-left:40px;
+}
+.notebook1 {
+	display:none;
+	margin-left:40px;
+}
+.variant {
+	height:200px;
+	width:200px;
+	margin-left:20px;
+	background-color:white;
+	display:none;
+	margin-left:50px;
+}
+.d-flex {
+	display:flex;
+	height:600px;
+	width:600px;
+	left:35%;
+	position:absolute;
+}
+.sp {
+	height:500px;
+	width:350px;
+	position:absolute;
+	background-image:url(TTcRN5twaMm0WftU6KCmB5A1_400x400.png);
+	background-size:100% 100%;
+	display:none;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family:undertale battle font_0;
+}
+.box {
+	height:600px;
+	width:600px;
+	background-color:red;
+}
+.box1 {
+	height:200px;
+	width:200px;
+	background-color:white;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+}
+.box2 {
+	height:200px;
+	width:200px;
+	background-color:white;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+}
+.d-flex1 {
+	display:flex;
+	height:1200px;
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+.asd {
+	height:100px;
+	width:400px;
+	background-color:white;
+	left:40%;
+	position:absolute;
+	margin-top:30%;
+}
+.var{
+    height:500px;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    background-image:url(TTcRN5twaMm0WftU6KCmB5A1_400x400.png);
+	background-size:100% 100%;
+}
+.var1{
+   	height:500px;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    display:none;
+    background-image:url(TTcRN5twaMm0WftU6KCmB5A1_400x400.png);
+	background-size:100% 100%;
+}
+.var2{
+    height:500px;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    display:none;
+    background-image:url(TTcRN5twaMm0WftU6KCmB5A1_400x400.png);
+	background-size:100% 100%;
+}
+        .text{
+            height:300px;
+            width:600px;
+        }
+        .ab{
+            height:400px;
+            width:700px;
+        }
+        .text1{
+            height:100px;
+            width:600px;
+        }
